@@ -4,8 +4,8 @@ from time import sleep
 print('start')
 sleep(10)
 def 移動1():
-    keyDown('esc')
-    keyUp('esc')
+    keyDown('enter')
+    keyUp('enter')
     sleep(10)
     keyDown('right')
     sleep(20)
